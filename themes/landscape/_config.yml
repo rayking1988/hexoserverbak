@@ -1,7 +1,9 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  主页: /
+  #关于: /about
+  
+  
 rss: /atom.xml
 
 # Content
@@ -29,7 +31,7 @@ show_count: false
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: /icon/favicon.ico
 twitter:
 google_plus:
 fb_admins:

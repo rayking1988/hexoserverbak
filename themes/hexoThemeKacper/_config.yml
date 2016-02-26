@@ -2,6 +2,10 @@
 menu: #导航栏连接
   主页: /
   美食: /Food
+  标签: /tags
+  类别: /category
+  API: /API
+  关于: /about
 
 
 
